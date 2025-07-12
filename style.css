@@ -1,0 +1,102 @@
+main > h2 {
+    color: white;
+    background-color: #2e7d32; /* Verde elegante */
+    border: solid 5px #444;
+    width: 200px;
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 20px auto;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+header {
+    margin: 10;
+    font-family: 'Segoe UI';
+}
+header ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center; 
+    background-color: black ;
+}
+header li{
+    margin:0;
+}
+header a {
+    display: block;
+    padding: 15px 50px;
+    color: white;
+    text-decoration:none;
+    transition: background 0.3s;
+    font-weight: 500;
+}
+header a:hover {
+    background-color: #555;
+    border-radius: 5px;
+}
+
+main > p {
+    color: white;
+    border: solid 2.5px #777;
+    padding: 15px;
+    margin: 20px auto;
+    max-width: 700px;
+    border-radius: 10px;
+    background-color: #1c1c1c;
+    line-height: 1.6;
+}
+footer > p {
+    color: #2196f3;
+    border: solid 2px #2196f3;
+    width: fit-content;
+    text-align: center;
+    margin: 40px auto;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-color: #101010;
+    font-size: 14px;
+}
+body{
+    background-color:black;
+}
+main > p{
+    color: white;
+}
+.logo {
+    display: block;
+    margin: 40px auto 20px;
+    max-width: 500px;
+    filter: drop-shadow(0px 0px 10px lime);
+    border-radius: 10px;
+}
+.steve{
+    border: solid 5px #777;
+    border-radius: 8px;
+}
+.creeper{
+    border: solid 5px #777;
+    border-radius: 8px;
+}
+.zombi{
+    border: solid 5px #777;
+    border-radius: 8px;
+}
+.esqueletos{
+    border: solid 5px #777;
+    border-radius: 8px;
+}
+.arañas{
+    border: solid 5px #777;
+    border-radius: 8px;
+}
+.enderman{
+    border: solid 5px #777;
+    border-radius: 8px;
+}
+.blaze{
+    border: solid 5px #777;
+    border-radius: 8px;
+}
